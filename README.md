@@ -21,6 +21,3 @@ This project analyzes sales data from Big Mart to identify key drivers of produc
 - Item_MRP is the strongest predictor of sales
 - Outlet_Type significantly impacts performance
 - Tree-based models outperform linear regression
-
-## Author
-Ngoc Bich
